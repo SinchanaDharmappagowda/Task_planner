@@ -1,0 +1,4 @@
+In Task planner project we created four javascript file namely index.js, deletetask.js, 
+tasklist.js, todo.js. First index.js file contains the commands for add delete and list to dos.
+ Next deletetask.js file delete the task. Tasklist.js file displays the list of to do present in 
+the tasks-data.json file. Last file that is todo.js it append items of todos to tasks.json   
